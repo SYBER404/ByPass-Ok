@@ -20,3 +20,11 @@ $ cd ByPass-Ok
 $ ls
 
 $ python run.py
+
+
+
+
+
+
+
+# 🌟 Jangan Lupa Kasih Bintang Konsol
