@@ -27,5 +27,5 @@ $ python run.py
 
 
 
-# 🌟 Jangan Lupa Kasih Bintang Konsol
+# 🌟 Don't forget to give a star
 # WhatsApp : 083844296034
